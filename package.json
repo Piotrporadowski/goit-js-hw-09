@@ -2,20 +2,20 @@
   "name": "goit-js-hw-09",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/Piotrporadowski/goit-js-hw-09.git",
+  "homepage": "https://Piotrporadowski.github.io/goit-js-hw-09",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Piotrporadowski/goit-js-hw-09.git"
+    "url": "git+https://Piotrporadowski.github.io/goit-js-hw-09"
   },
   "keywords": [],
   "author": "Piotr Poradowski <poradowskipiotr@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Piotrporadowski/goit-js-hw-09/issues"
+    "url": "https://Piotrporadowski.github.io/goit-js-hw-09/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
