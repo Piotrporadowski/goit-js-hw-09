@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://Piotrporadowski.github.io/goit-js-hw-09"
+    "url": "git+https://github.com/Piotrporadowski/goit-js-hw-09.git"
   },
   "keywords": [],
   "author": "Piotr Poradowski <poradowskipiotr@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://Piotrporadowski.github.io/goit-js-hw-09/issues"
+    "url": "https://github.com/Piotrporadowski/goit-js-hw-09/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
